@@ -1,0 +1,24 @@
+{
+  "name": "adopt-a-pet",
+  "version": "1.0.0",
+  "description": "\"# adopt-a-pet\"",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier \"src/**/*.{js,html}\" --write",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakeMetz8/adopt-a-pet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JakeMetz8/adopt-a-pet/issues"
+  },
+  "homepage": "https://github.com/JakeMetz8/adopt-a-pet#readme",
+  "devDependencies": {
+    "prettier": "^2.0.4"
+  }
+}
