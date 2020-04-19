@@ -3,6 +3,8 @@ import useDropdown from "./useDropdown.js";
 import Results from "./Results.js";
 import pet, { ANIMALS } from "@frontendmasters/pet";
 
+// FUNCTION based component
+
 const SearchParams = () => {
   const [location, setLocation] = useState("Seattle, WA");
   const [breeds, setBreeds] = useState([]);
